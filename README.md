@@ -1,6 +1,7 @@
 # My blogs Phitron
-#### Live Link:  [Live Link]() *
-#### API Link:  [API Link](https://blog-server-shorifzaman.vercel.app/) *
+#### Live Link:  [Live Link](https://blog-client-nine.vercel.app/) *
+#### API Link:  [API Link](https://blog-backend-green.vercel.app/) *
+#### gitServer Link:  [server Link](https://github.com/Shorifzaman/blog-server-acc) *
 
 ### The Tools Used In Project:
 * Tailwind
