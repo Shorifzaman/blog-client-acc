@@ -1,4 +1,4 @@
-# Ocean of Blogger
+# My blogs Phitron
 #### Live Link:  [Live Link]() *
 #### API Link:  [API Link](https://blog-server-shorifzaman.vercel.app/) *
 
@@ -9,7 +9,6 @@
 * React Hook Form
 * React Hot Toast
 * Redux
-* Redux
 * * React-Redux
 * * Redux-Thunk
 * * Redux structure 
@@ -18,11 +17,11 @@
 * * Root reducer 
 * * Middleware 
 * * Redux-devtools
-# # SERVER
+###  SERVER
 *  Node.js
 * * Express.js
-* * MongoDB
-# # Features.......................
+* * * MongoDB
+###  Features.......................
 
 
 
