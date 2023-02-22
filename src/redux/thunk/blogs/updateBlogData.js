@@ -2,7 +2,7 @@ import { updateBlog } from "../../actions/blogsActions";
 
 const updateBlogData = (blog, navigate) => {
     return async (dispatch, getState) => {
-        const res = await fetch('https://blog-server-shorifzaman.vercel.app//blog', {
+        const res = await fetch('https://blog-backend-green.vercel.app/blog', {
             method: 'PATCH',
             headers: {
                 "content-type": "application/json",

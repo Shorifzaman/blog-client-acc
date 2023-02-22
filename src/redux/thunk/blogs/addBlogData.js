@@ -2,7 +2,7 @@ import { addBlog } from "../../actions/blogsActions";
 
 const addBlogData = (blog, navigate) => {
     return async (dispatch, getState) => {
-        const res = await fetch('https://blog-server-shorifzaman.vercel.app/blog', {
+        const res = await fetch('https://blog-backend-green.vercel.app/blog', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json',
