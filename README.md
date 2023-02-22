@@ -1,5 +1,5 @@
 # My blogs Phitron
-#### Live Link:  [Live Link](https://blog-client-nine.vercel.app/) *
+#### Live Link:  [Live Link](https://blog-client-shorifzaman.vercel.app/) *
 #### API Link:  [API Link](https://blog-backend-green.vercel.app/) *
 #### gitServer Link:  [server Link](https://github.com/Shorifzaman/blog-server-acc) *
 
